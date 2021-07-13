@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Julian\source\repos\Sort\Sort\src\main.cpp(118,119): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Julian\source\repos\Sort\Sort\src\main.cpp(128,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Julian\source\repos\Sort\Sort\src\main.cpp(129,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Julian\source\repos\Sort\Sort\src\main.cpp(129,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Sort.vcxproj -> C:\Users\Julian\source\repos\Sort\x64\Debug\Sort.exe
